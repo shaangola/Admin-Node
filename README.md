@@ -23,7 +23,7 @@ updated guide.
 Contribution are always **welcome and recommended**! Here is how:
 
 - Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
-- Clone to your machine ```git clone https://github.com/YOUR_USERNAME/AdminLTE.git```
+- Clone to your machine ```git clone https://github.com/shaangola/Admin-Node.git```
 - Make your changes
 - Create a pull request
 
@@ -39,10 +39,10 @@ AdminLTE is an open source project by [AdminLTE.IO](https://adminlte.io) that is
 reserves the right to change the license of future releases. Wondering what you can or can't do? View the [license guide](https://adminlte.io/docs/license).
 
 ### Legacy Releases
-AdminLTE 1.x can be easily upgraded to 2.x using [this guide](https://adminlte.io/themes/AdminLTE/documentation/index.html#upgrade), but if you intend to keep using AdminLTE 1.x, you can download the latest release from the [releases](https://github.com/almasaeed2010/AdminLTE/releases) section above.
+AdminLTE 1.x can be easily upgraded to 2.x using [this guide](https://adminlte.io/themes/AdminLTE/documentation/index.html#upgrade), but if you intend to keep using AdminLTE 1.x, you can download the latest release from the [releases](https://github.com/shaangola/Admin-Node.git/releases) section above.
 
 ### Change log
-**For the most recent change log, visit the [releases page](https://github.com/almasaeed2010/AdminLTE/releases) or the [changelog file](https://github.com/almasaeed2010/AdminLTE/blob/master/changelog.md).** We will add detailed release notes to each new release. 
+**For the most recent change log, visit the [releases page](https://github.com/shaangola/Admin-Node/releases) or the [changelog file](https://github.com/shaangola/Admin-Node.git/blob/master/changelog.md).** We will add detailed release notes to each new release. 
 
 ### Image Credits
 - [Pixeden](http://www.pixeden.com/psd-web-elements/flat-responsive-showcase-psd)
